@@ -1,0 +1,22 @@
+# Test1
+
+class Test1 < Processing::App
+  load_library 'PeasyCam'
+  load_libraries :opengl
+  include_package "processing.opengl"
+  
+  import 'peasy'
+  
+  def setup
+    
+  end
+  
+  def draw
+    if (library_loaded? :PeasyCam)
+      ellipse(width/2,height/2,30,30)
+    end
+  end
+  
+end
+
+Test1.new :title => "Test1", :width => 800, :height => 600

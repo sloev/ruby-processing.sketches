@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/52/branches/public-beta-2
+END
+SyphonClientConnectionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/42/branches/public-beta-2/SyphonClientConnectionManager.h
+END
+doxygen.config
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/34/branches/public-beta-2/doxygen.config
+END
+SyphonMessageSender.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMessageSender.m
+END
+SyphonServerDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/42/branches/public-beta-2/SyphonServerDirectory.h
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/34/branches/public-beta-2/Doxyfile
+END
+Syphon Icon.icns
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/35/branches/public-beta-2/Syphon%20Icon.icns
+END
+SyphonCFMessageSender.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/42/branches/public-beta-2/SyphonCFMessageSender.h
+END
+SyphonClientConnectionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/42/branches/public-beta-2/SyphonClientConnectionManager.m
+END
+SyphonServerDirectory.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/42/branches/public-beta-2/SyphonServerDirectory.m
+END
+SyphonMachMessageReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMachMessageReceiver.h
+END
+SyphonCFMessageSender.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/42/branches/public-beta-2/SyphonCFMessageSender.m
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/34/branches/public-beta-2/header.html
+END
+SyphonBuildMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/34/branches/public-beta-2/SyphonBuildMacros.h
+END
+SyphonServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/42/branches/public-beta-2/SyphonServer.h
+END
+Exported_Symbols.exp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/42/branches/public-beta-2/Exported_Symbols.exp
+END
+SyphonMachMessageReceiver.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMachMessageReceiver.m
+END
+SyphonPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/42/branches/public-beta-2/SyphonPrivate.h
+END
+SyphonServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/branches/public-beta-2/SyphonServer.m
+END
+SyphonMachMessageSender.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMachMessageSender.h
+END
+SyphonPrivate.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/42/branches/public-beta-2/SyphonPrivate.m
+END
+Syphon.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/42/branches/public-beta-2/Syphon.h
+END
+SyphonServerConnectionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/42/branches/public-beta-2/SyphonServerConnectionManager.h
+END
+SyphonImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/42/branches/public-beta-2/SyphonImage.h
+END
+SyphonMachMessageSender.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMachMessageSender.m
+END
+SyphonIOSurfaceImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/42/branches/public-beta-2/SyphonIOSurfaceImage.h
+END
+DoxygenLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/34/branches/public-beta-2/DoxygenLayout.xml
+END
+SyphonServerConnectionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/42/branches/public-beta-2/SyphonServerConnectionManager.m
+END
+SyphonImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/42/branches/public-beta-2/SyphonImage.m
+END
+SyphonIOSurfaceImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/42/branches/public-beta-2/SyphonIOSurfaceImage.m
+END
+SyphonMessageQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMessageQueue.h
+END
+SyphonDispatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/42/branches/public-beta-2/SyphonDispatch.c
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/34/branches/public-beta-2/Info.plist
+END
+SyphonMessageQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMessageQueue.m
+END
+SyphonDispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/42/branches/public-beta-2/SyphonDispatch.h
+END
+Building Syphon.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/branches/public-beta-2/Building%20Syphon.rtf
+END
+Syphon SDK Read Me.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/49/branches/public-beta-2/Syphon%20SDK%20Read%20Me.rtf
+END
+SyphonMessageReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMessageReceiver.h
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/34/branches/public-beta-2/License.txt
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/34/branches/public-beta-2/footer.html
+END
+SyphonMessaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMessaging.h
+END
+doxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/34/branches/public-beta-2/doxygen.css
+END
+SyphonClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/42/branches/public-beta-2/SyphonClient.h
+END
+SyphonMessageReceiver.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMessageReceiver.m
+END
+Syphon_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/42/branches/public-beta-2/Syphon_Prefix.pch
+END
+SyphonMessaging.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMessaging.m
+END
+SyphonCFMessageReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/42/branches/public-beta-2/SyphonCFMessageReceiver.h
+END
+SyphonClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/42/branches/public-beta-2/SyphonClient.m
+END
+SyphonMessageSender.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/42/branches/public-beta-2/SyphonMessageSender.h
+END
+SyphonCFMessageReceiver.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/42/branches/public-beta-2/SyphonCFMessageReceiver.m
+END
