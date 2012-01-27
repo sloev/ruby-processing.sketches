@@ -26,25 +26,37 @@ class Test1 < Processing::App
     $c = GLGraphicsOffScreen.new(self, width, height, true, 4)
     $t = GLTexture.new(self)
     initSyphon($c.gl)
+    $xx = 0
+    $yy = 0
     
     #pgl.beginGL
     #pgl.endGL
     
     #pgl = PGraphicsOpenGL g
     #initSyphon(gl,"processing")
+    
+    $c.beginDraw()
+    $c.clear(255,0,0,0)
+    $c.endDraw()
   end
   
   def draw
+    $xx = $xx ++ 1
+    $yy = $yy ++ 3
+    if($xx>50)
+      $xx=0
+    end
+    if($yy>50)
+      $yy=0
+    end
     $c.beginDraw()
-    $c.clear(255,0,0,0)
+    #$c.clear(255,0,0,0)
     $c.line(0,0,100,100)
     $c.fill(255,255,0,255)
-    $c.ellipse(width-50,height-50,100,100)
+    $c.ellipse(width-50-$xx,height-50-$yy,100,100)
     $c.endDraw()
     $t = $c.getTexture()
     image($t,0,0)
-    a = 
-    b = 
     $mySyphon.publishFrameTexture($t.getTextureID(),$t.getTextureTarget(),0,0,width,height,width,height,true)
   end
   
